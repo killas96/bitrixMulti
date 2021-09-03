@@ -1,0 +1,2 @@
+# bitrixMulti
+multidomainCustom + edost
